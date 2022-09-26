@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "vivo",
+      "category": "Electronics",
+      "date": "2022-08-02T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 15000,
+      "Comment": "New one",
+      "id": 1
+    },
+    {
+      "productName": "lenovo",
+      "category": "Electronics",
+      "date": "2022-09-23T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 1225,
+      "Comment": "dfwew",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
